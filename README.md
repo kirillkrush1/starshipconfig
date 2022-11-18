@@ -1,5 +1,6 @@
 # starshipconfig
 
+I cobbled this config from DistroTube/DWT1 and starship.rs's docs.
 
 
 ## Getting started
